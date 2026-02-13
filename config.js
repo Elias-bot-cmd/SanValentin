@@ -48,8 +48,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "JEJEJe, Soy la persona mas afortunada de tenerte 😈😈🤍🤍",
-        message: "No puedo darte un regalo precensial pero tu sabes que hago lo que puedo, espera a que llegue el otro jejeje🤍🤍 cafesito caramela, te empezare a decir mi caramelita.",
-        emojis: "🙊🤍❤️‍🔥"  // These will bounce around
+        message: "No puedo darte un regalo presencial pero tu sabes que hago lo que puedo, espera a que llegue el otro jejeje🤍🤍 cafesito caramela, te empezare a decir mi caramelita.",
+        emojis: "Ojala te guste..."  // These will bounce around
     },
 
     // Color scheme for the website
