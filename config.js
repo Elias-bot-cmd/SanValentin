@@ -7,7 +7,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Quieres ser mi san valetin? 🤍 🌹",
+    pageTitle: "Quieres ser mi san valentin? 🤍 🌹",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -84,4 +84,4 @@ const CONFIG = {
 };
 
 // Don't modify anything below this line unless you know what you're doing
-window.VALENTINE_CONFIG = CONFIG; 
+window.VALENTINE_CONFIG = CONFIG;
