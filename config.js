@@ -28,7 +28,7 @@ const CONFIG = {
         second: {
             text: "Cuanto me amas?",                          // For the love meter
             startText: "Asi de mucho?",                                   // Text before the percentage
-            nextBtn: "Poco? 💔"                                         // Text for the next button
+            nextBtn: "De verdad??!!"                                         // Text for the next button
         },
         third: {
             text: "Quieres ser mi San Valetin este 14 de Feb Del 2026? 🌹", // The big question!
